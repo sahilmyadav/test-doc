@@ -5,3 +5,4 @@ branches, README rendering and repository settings. Nothing here is
 production code.
 
 Profile highlights in progress.
+Co-authored change for pair programming badge.
